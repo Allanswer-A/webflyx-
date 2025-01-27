@@ -1,0 +1,60 @@
+[33mcommit d3b4084d35bc0e4cf94ef69c2d0e0458aac505ff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: Allanswer-A <admin@all-answer.com>
+Date:   Sun Jan 26 23:51:41 2025 +0100
+
+    J:ruined it
+
+[33mcommit fe52b8f1c0dd87f0ac56fe1dab55e29cf0b3367d[m
+Author: Allanswer-A <admin@all-answer.com>
+Date:   Sun Jan 26 23:47:11 2025 +0100
+
+    I: I added Fear
+
+[33mcommit f5e34bfe6b7d7650c005fa94b20304a3b6096560[m
+Author: Allanswer-A <admin@all-answer.com>
+Date:   Sun Jan 26 23:46:37 2025 +0100
+
+    H: I added spice
+
+[33mcommit 21c5cd11e0967928180584eb83881d52bd636bc5[m[33m ([m[1;32mmain[m[33m)[m
+Author: Allanswer-A <admin@all-answer.com>
+Date:   Sun Jan 26 23:35:37 2025 +0100
+
+    G:Added button
+
+[33mcommit 02376f7a2fd4f8020c4c01d2b0cbdf24d76b8378[m
+Merge: 8f4fc3e 1e34db8
+Author: Allanswer-A <admin@all-answer.com>
+Date:   Sun Jan 26 23:11:51 2025 +0100
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 8f4fc3ed2ce29162e6c3b505c970f2812f84db15[m
+Author: Allanswer-A <admin@all-answer.com>
+Date:   Sun Jan 26 23:09:05 2025 +0100
+
+    E:changed File
+
+[33mcommit 1e34db874ca80b1d00c341dde652fe267bf89cc4[m
+Author: Allanswer-A <admin@all-answer.com>
+Date:   Sun Jan 26 22:58:33 2025 +0100
+
+    D:added classics
+
+[33mcommit b77886c7b79b1620b417c5888b85533be9cc2ffa[m
+Author: Allanswer-A <admin@all-answer.com>
+Date:   Sun Jan 26 22:26:24 2025 +0100
+
+    C:Add Quotes
+
+[33mcommit 2063ae81f77d46dc0c0f11332ea9a63c0f584322[m
+Author: Allanswer-A <admin@all-answer.com>
+Date:   Sun Jan 26 22:20:57 2025 +0100
+
+    B:Added Titles
+
+[33mcommit 885a5a96a0ce01a9e7b16e0545dafe3a7a006381[m
+Author: Allanswer-A <admin@all-answer.com>
+Date:   Sun Jan 26 17:23:51 2025 +0100
+
+    A: add contents.md
